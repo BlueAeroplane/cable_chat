@@ -6,3 +6,4 @@
 
 - bootstrap alpha 4
 - devise
+- uses action cable to establish websocket connection
